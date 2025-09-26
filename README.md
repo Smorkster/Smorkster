@@ -1,5 +1,7 @@
 # 💫 About Me:
-I´m currently focusing on the development of Fetchalon and adding more features.
+I'm curious about most things programming. So development often strays of to adding more functionality than necessary.
+
+My current obsession revolves in Python, in general.
 
 
 # 💻 Tech Stack:
